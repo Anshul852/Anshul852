@@ -10,6 +10,7 @@
 <a href="www.linkedin.com/in/anshul-harish-b-a6b22b2a3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/anshulharish/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anshul852&theme=onedark)](https://github.com/Anshul852/github-profile-trophy)
 <!--
 **Anshul852/Anshul852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
