@@ -7,6 +7,13 @@
 - 🌱 I’m currently learning **Android Development with Kotlin**
 - 🔭 I’m currently working on my first app
 
+- ### Languages and Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kotlin.svg" alt="Kotlin" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg" alt="Android" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="Java" width="40" height="40" />
+</p>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anshul852&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Anshul852&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
