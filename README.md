@@ -9,6 +9,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anshul852&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Anshul852&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Connect with me:
 
 <p align="left">
@@ -19,5 +21,3 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Anshul852&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
