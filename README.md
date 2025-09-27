@@ -7,8 +7,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anshul852&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/AnshulHari25188" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-📫 How to reach me: ...  
 <a href="www.linkedin.com/in/anshul-harish-b-a6b22b2a3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/anshulharish/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
